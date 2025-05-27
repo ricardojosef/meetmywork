@@ -150,7 +150,7 @@ h1{
 
     p#footer{
         font-size:clamp(8px,3vw,18px) !important;
-        padding-top: 15%;
+        padding-top: 25% !important;
         padding-bottom: 4%;
         text-align: center !important;
     }
